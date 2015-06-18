@@ -1,4 +1,2 @@
-Proyecto desarrollado en tecnología ASP.net,
-que permite la creación de servicios HTTP
-mediante la utilización de una WEB API
+Modelo inicial en .NET que permite el desarrollo de servicios HTTP a través de una API WEB, desarrollado con Tecnología Microsoft y lenguaje de programación C#
   
